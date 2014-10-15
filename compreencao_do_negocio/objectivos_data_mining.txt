@@ -1,0 +1,8 @@
+Determinar objetivos de Data Mining:
+
+O objectivo do data mining é, atraves de um histórico, ter um critério de decisão para a classificação de novos registos. Neste negócio terá como objectivo saber se o produto vai ser ou não devolvido, após a compra.
+
+
+Critérios de sucesso de Data Mining:
+
+Para cada produto, saber com o máximo de certeza, se este vai ser ou não devolvido.

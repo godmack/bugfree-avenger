@@ -1,0 +1,13 @@
+Descrição do Negócio:
+
+Loja de vendas online, situada na Alemanha e subdividida pelos seus diversos estados.
+
+
+Objectivos:
+
+Registo de vendas efectuadas, com a informação se cada produto foi devolvido ou não.
+
+
+Critérios de Sucesso:
+
+Venda do maior número de produtos com o menor número de devoluções.
