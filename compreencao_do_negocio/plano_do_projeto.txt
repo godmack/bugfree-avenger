@@ -1,0 +1,5 @@
+Plano e metodologia:
+-Metodologia:
+No ambito da unidade curricular de Engenharia do Conhecimento, a metodologia escolhida é CRISP-DM (Cross Industry Standard Process for Data Mining).
+
+-Plano:
