@@ -1,2 +1,4 @@
 *Avaliar o cenário
     -Terminologia
+*Exploração dos Dados
+    -Documentar as tarefas de exploração dos dados iniciais ???????
