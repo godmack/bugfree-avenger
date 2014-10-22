@@ -3,3 +3,10 @@ Plano e metodologia:
 No ambito da unidade curricular de Engenharia do Conhecimento, a metodologia escolhida é CRISP-DM (Cross Industry Standard Process for Data Mining).
 
 -Plano:
+As etapas que pretendemos seguir são:
+    Compreensão do negócio
+    Compreensão dos dados
+    Preparação dos dados
+    Modelização
+    Avaliação
+estas são as etapas da metodologia CRISP-DM com omissão à etapa de "Colocação em produção", que no ambito da Unidade Curricular não a vamos realizar.

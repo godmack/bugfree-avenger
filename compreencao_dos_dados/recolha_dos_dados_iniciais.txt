@@ -1,3 +1,2 @@
 Os dados iniciais foram recolhidos e fornecidos no enunciado do Projeto.
 Foram disponibilizados 3 ficheiros na página da Unidade Curricular no Moodle: um dicionário de dados, um dataset de treino e um dataset de testes.
-
