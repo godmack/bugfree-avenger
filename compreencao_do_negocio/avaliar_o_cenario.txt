@@ -1,7 +1,3 @@
-<<<<<<< .mine
-Inventário de recursos, requisitos, assunções e restrições:
-
-	=======
 Inventário de Recursos, requisitos, assunções e restrições:
 -Computador
 -RapidMiner
@@ -20,5 +16,3 @@ Terminologia:
 Custo e Beneficios:
 O projeto vai ser desenvolvido no ambito da Unidade Curricular de Engenharia do Conhecimento, não tendo assim custos monetários.
 Vai-nos trazer muitos beneficios para a nossa experiêcia em projetos data mining, pois nenhum de nós já realizou um projeto destes, tendo assim que explorar tudo desda raiz.
-
->>>>>>> .r7
