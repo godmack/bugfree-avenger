@@ -1,0 +1,1 @@
+No dataset fornecido temos 451495 registos e 14 atributos (incluindo a caracteristica objetivo).

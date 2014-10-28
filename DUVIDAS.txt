@@ -1,4 +1,5 @@
 *Avaliar o cenário
+	-Inentário Inventário de Recursos, requisitos, assunções e restrições
     -Terminologia
 *Exploração dos Dados
     -Documentar as tarefas de exploração dos dados iniciais ???????
