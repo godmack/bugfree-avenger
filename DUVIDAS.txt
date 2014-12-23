@@ -1,5 +1,11 @@
+<<<<<<< .mine
+o que é que o prof pretende em relacao aos objectivos de data mining?
+
+riscos e contingencia
+
+terminologia=======
 *Avaliar o cenário
 	-Inentário Inventário de Recursos, requisitos, assunções e restrições
     -Terminologia
 *Exploração dos Dados
-    -Documentar as tarefas de exploração dos dados iniciais ???????
+    -Documentar as tarefas de exploração dos dados iniciais ???????>>>>>>> .r14
